@@ -1,0 +1,22 @@
+{
+  "name": "3term_course_work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^10.6.0",
+    "firebase-admin": "^11.11.0",
+    "firebase-functions": "^4.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "proxy": "https://udodcoursework-default-rtdb.firebaseio.com/"
+}
